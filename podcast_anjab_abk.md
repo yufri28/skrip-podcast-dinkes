@@ -23,7 +23,7 @@ Selamat datang di Podcast Ayo Bangun NTT!
 Hari ini kita akan membahas sesuatu yang sering kita dengar di instansi pemerintahan…  
 tapi mungkin belum benar-benar kita pahami.  
 
-Yaitu… **Anjab dan ABK**.  
+Yaitu… **Analisis Jabatan dan Analisis Beban Kerja Pegawai, atau yang biasa kita sebut Anjab dan ABK**.  
 
 Kenapa setiap instansi selalu membahas Anjab dan ABK?  
 Apakah ini hanya sekadar administrasi?  
@@ -66,6 +66,12 @@ Kalau dianalogikan…
 **🎥 Kamera:** CAM 1 (Host Reaction Shot)  
 
 **🎙️ HOST:**  
+Oh. Berarti Anjab itu pekerjaannya dan ABK itu banyaknya pegawai yang dibutuhkan untuk mengerjakan pekerjaan tersebut ya.
+
+**🎙️ NARASUMBER:**
+Ya... Betul.
+
+**🎙️ HOST: **
 Wah… berarti kalau salah menghitung, bisa kacau ya Pak?  
 
 **🎙️ NARASUMBER:**  
