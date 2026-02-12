@@ -182,16 +182,11 @@ Dengan aplikasi ini lebih mudah dalam penyusunan dan dapat direvisi sesuai perat
 Bagaimana dengan jumlah ASN kita saat ini?
 
 **NARASUMBER:**  
-Total ASN lingkup Dinas Kesehatan Provinsi NTT berjumlah **553 orang**.
+Total ASN lingkup Dinas Kesehatan Provinsi NTT berjumlah **404 orang**.
 
 Terdiri dari:  
-- 272 PNS  
-- 281 PPPK  
-
-Dengan komposisi jabatan:  
-- 19 Jabatan Struktural  
-- 318 Jabatan Pelaksana  
-- 216 Jabatan Fungsional Tertentu  
+- 247 PNS  
+- 157 PPPK  
 
 Data ini menjadi dasar dalam perhitungan kebutuhan pegawai.
 
