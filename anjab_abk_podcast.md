@@ -212,13 +212,15 @@ Mendukung penyusunan formasi, promosi, dan peningkatan kinerja.
 Hasilnya digunakan sebagai indikator keberhasilan organisasi.
 
 **HOST:**  
-Terima kasih banyak Pak Yos atas penjelasan yang sangat lengkap dan jelas.
+Baik Pak, Kalau kita dengarkan tadi, memang terlihat jelas bahwa Anjab dan ABK ini menjadi dasar penting dalam pengelolaan ASN, supaya semuannya berjalan lebih tertata dan terukur.
+Semoga melalui pembahasan ini, kita bisa semakin memahami peran dan mendukung pelaksanaan di lingkungan kerja masing-masing.
+Terima kasih banyak Pak Yos, sudah berbagi bersama kami hari ini.
 
-Sahabat sehat, semoga pembahasan hari ini semakin memperkuat pemahaman kita bahwa Anjab dan ABK adalah fondasi penting dalam manajemen ASN.
+**NARASUMBER:**
+Terima kasih kembali.
 
-Mari kita dukung tata kelola yang profesional dan akuntabel.
-
-Bersama kita bisa…
+**HOST:** 
+Baik, Sahabat sehat Dinkes Provinsi NTT, Terima Kasih sudah menyimak obrolan ini sampai akhir. Jangan lupa nantikan Podcast berikutnya dengan topik-topik menarik lainnya.
 
 **BERSAMA:**  
 Ayo Bangun NTT!
