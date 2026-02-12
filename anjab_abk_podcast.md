@@ -1,6 +1,7 @@
-# 🎙️ SCRIPT PODCAST  
-## Gambaran Umum Analisis Jabatan (Anjab) & Analisis Beban Kerja (ABK)  
-Sub Bagian Kepegawaian dan Umum  
+# 🎙️ SCRIPT FINAL PODCAST  
+## Gambaran Umum Analisis Jabatan (Anjab) & Analisis Beban Kerja (ABK)
+
+**Sub Bagian Kepegawaian dan Umum**  
 Sekretariat – Dinas Kesehatan Provinsi NTT  
 Februari 2025  
 
@@ -9,6 +10,8 @@ Februari 2025
 ---
 
 ## 🎬 SEGMENT 1 – OPENING & PROFIL (±5 menit)
+
+🎥 *Wide Shot*
 
 **HOST:**  
 Halo sahabat sehat Dinas Kesehatan Provinsi NTT.  
@@ -52,7 +55,11 @@ Keduanya membantu menentukan tugas, tanggung jawab, dan pembagian beban kerja ya
 
 Tujuan utamanya adalah meningkatkan efisiensi kinerja ASN dan kualitas pelayanan publik.
 
-Anjab dan ABK merupakan dua pilar manajemen SDM yang wajib dilakukan untuk memetakan tugas, tanggung jawab, dan kebutuhan pegawai guna mencapai efektivitas organisasi.
+**HOST:**  
+Jadi ini bukan sekadar dokumen administrasi ya Pak?
+
+**NARASUMBER:**  
+Bukan. Anjab dan ABK adalah dua pilar manajemen SDM yang wajib dilakukan untuk memetakan tugas, tanggung jawab, dan kebutuhan pegawai guna mencapai efektivitas organisasi.
 
 Anjab fokus pada apa pekerjaannya, sedangkan ABK mengukur berapa kebutuhan pegawainya berdasarkan volume kerja.
 
@@ -77,7 +84,7 @@ Dasarnya antara lain:
 - Peraturan BKN Nomor 3 Tahun 2023  
 
 **HOST:**  
-Berarti seluruh prosesnya sudah memiliki landasan hukum yang jelas ya Pak?
+Berarti seluruh prosesnya sudah memiliki landasan hukum yang jelas dan terukur ya Pak?
 
 **NARASUMBER:**  
 Betul sekali.
@@ -94,14 +101,7 @@ Analisis Jabatan adalah proses pengumpulan, pencatatan, pengolahan, dan penyusun
 
 Tujuannya untuk menyediakan informasi yang akurat mengenai tugas, tanggung jawab, dan wewenang suatu jabatan, serta menentukan persyaratan atau kualifikasi yang dibutuhkan.
 
-Ini menjadi dasar dalam:
-- Rekrutmen  
-- Seleksi  
-- Penempatan  
-- Pelatihan  
-- Penilaian kinerja  
-- Kompensasi  
-- Pengembangan karier  
+Ini menjadi dasar dalam rekrutmen, seleksi, penempatan, pelatihan, penilaian kinerja, kompensasi, dan pengembangan karier.
 
 Sedangkan Analisis Beban Kerja adalah metode untuk menghitung kebutuhan pegawai berdasarkan volume pekerjaan dan waktu kerja efektif.
 
@@ -126,7 +126,6 @@ Manfaatnya antara lain:
 Bagaimana tahapan penyusunan Anjab dan ABK?
 
 **NARASUMBER:**  
-
 Tahapannya meliputi:
 
 1. Identifikasi mandat, desain organisasi, struktur organisasi, dan proses bisnis.  
@@ -135,6 +134,12 @@ Tahapannya meliputi:
 4. Analisis jabatan, penyusunan uraian jabatan, spesifikasi jabatan, dan peta jabatan.  
 5. Verifikasi dan validasi kebutuhan.  
 6. Penyampaian hasil melalui aplikasi e-formasi kepada KemenPANRB dan BKN, serta kepada Kemendagri untuk pemerintah daerah.
+
+**HOST:**  
+Berarti prosesnya cukup komprehensif ya Pak?
+
+**NARASUMBER:**  
+Ya, karena harus menggambarkan kondisi organisasi secara nyata.
 
 ---
 
@@ -159,29 +164,30 @@ Untuk frekuensi penyusunan:
 ## 📊 SEGMENT 7 – KONDISI ANJAB & ABK TAHUN 2025 (±8–9 menit)
 
 **HOST:**  
-Bagaimana kondisi Anjab dan ABK Dinas Kesehatan Provinsi NTT tahun 2025?
+Pak, bagaimana kondisi Anjab dan ABK Dinas Kesehatan Provinsi NTT tahun 2025?
 
 **NARASUMBER:**  
-Penyusunan tahun 2025 mengacu pada:
+Penyusunan tahun 2025 mengacu pada PermenPANRB Nomor 1 Tahun 2020 dan PermenPANRB Nomor 11 Tahun 2024.
 
-- PermenPANRB Nomor 1 Tahun 2020  
-- PermenPANRB Nomor 11 Tahun 2024  
-
-Jabatan Pelaksana terdiri dari tiga klasifikasi:
-
+Jabatan Pelaksana terdiri dari tiga klasifikasi:  
 - Klerek  
 - Operator  
 - Teknisi  
 
-Penyusunan dilakukan menggunakan aplikasi **Sinjab**, sehingga lebih sistematis dan mudah direvisi sesuai regulasi yang berlaku.
+Penyusunan dilakukan menggunakan aplikasi **Sinjab**.  
+Dengan aplikasi ini lebih mudah dalam penyusunan dan dapat direvisi sesuai peraturan yang berlaku.
 
-Data ASN lingkup Dinas Kesehatan Provinsi NTT saat ini berjumlah **553 orang**, terdiri dari:
+**HOST:**  
+Bagaimana dengan jumlah ASN kita saat ini?
 
+**NARASUMBER:**  
+Total ASN lingkup Dinas Kesehatan Provinsi NTT berjumlah **553 orang**.
+
+Terdiri dari:  
 - 272 PNS  
 - 281 PPPK  
 
-Dengan komposisi jabatan:
-
+Dengan komposisi jabatan:  
 - 19 Jabatan Struktural  
 - 318 Jabatan Pelaksana  
 - 216 Jabatan Fungsional Tertentu  
@@ -198,20 +204,22 @@ Pak, apa implikasi praktis Anjab dan ABK bagi organisasi?
 **NARASUMBER:**  
 Anjab dan ABK membantu mengetahui uraian jabatan dan beban kerja per jabatan, menentukan kebutuhan dan kompetensi pegawai, menyusun peta jabatan, serta meningkatkan efisiensi dan efektivitas kinerja.
 
-Anjab dan ABK menjadi dasar manajemen ASN yang objektif dan terukur.  
-Mendukung penyusunan formasi, promosi, dan peningkatan kinerja.  
+Anjab dan ABK menjadi dasar manajemen ASN yang objektif dan terukur.
+
+Mendukung penyusunan formasi, promosi, dan peningkatan kinerja.
+
 Hasilnya digunakan sebagai indikator keberhasilan organisasi.
 
 **HOST:**  
-Terima kasih banyak Pak Yos atas penjelasannya.
+Terima kasih banyak Pak Yos atas penjelasan yang sangat lengkap dan jelas.
 
 Sahabat sehat, semoga pembahasan hari ini semakin memperkuat pemahaman kita bahwa Anjab dan ABK adalah fondasi penting dalam manajemen ASN.
 
 Mari kita dukung tata kelola yang profesional dan akuntabel.
 
+Bersama kita bisa…
+
 **BERSAMA:**  
 Ayo Bangun NTT!
-
----
 
 🎵 *Fade Out*
