@@ -185,7 +185,7 @@ Bagaimana dengan jumlah ASN kita saat ini?
 Total ASN lingkup Dinas Kesehatan Provinsi NTT berjumlah **404 orang**.
 
 Terdiri dari:  
-- 247 PNS  
+- 247 PNS dan CPNS 
 - 157 PPPK  
 
 Data ini menjadi dasar dalam perhitungan kebutuhan pegawai.
